@@ -57,5 +57,7 @@ Evaluating performance on both datasets demonstrates the robustness, adaptabilit
 
 7.Pandas, NumPy, Matplotlib
 
-8.Evaluation Metrics: Accuracy, Precision, Recall, F1-score
+8.Accuracy, Precision, Recall, F1-score
+
+9.Jupyter Notebook / Google Colab
 
