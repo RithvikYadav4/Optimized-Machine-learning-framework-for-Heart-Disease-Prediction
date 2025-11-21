@@ -1,4 +1,4 @@
-### Optimized Machine Learning Framework for Heart Disease Prediction 
+## Optimized Machine Learning Framework for Heart Disease Prediction 
 
 Cardiovascular diseases remain one of the leading causes of death worldwide. Early and accurate identification of risk factors is essential for effective medical intervention. 
 This research introduces an Optimized Machine Learning Framework that combines traditional machine learning models with the Whale Optimization Algorithm (WOA) to enhance the precision of heart disease prediction.
