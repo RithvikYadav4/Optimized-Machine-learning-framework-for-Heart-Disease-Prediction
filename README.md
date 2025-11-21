@@ -1,16 +1,16 @@
-## Optimized Machine Learning Framework for Heart Disease Prediction 
+# Optimized Machine Learning Framework for Heart Disease Prediction 
 
 Cardiovascular diseases remain one of the leading causes of death worldwide. Early and accurate identification of risk factors is essential for effective medical intervention. 
 This research introduces an Optimized Machine Learning Framework that combines traditional machine learning models with the Whale Optimization Algorithm (WOA) to enhance the precision of heart disease prediction.
 
-## Overview
+# Overview
 This study utilizes two different datasets to assess the framework's robustness and real-world applicability:
 1.Healthcare Stroke Dataset
 2.Cleveland Heart Disease Dataset
 Both datasets target different cardiovascular conditions, allowing us to evaluate the model’s generalizability across related medical domains.
 
-## Dataset Processing and Methodology
-# 1. Healthcare Stroke Dataset
+# Dataset Processing and Methodology
+## 1. Healthcare Stroke Dataset
 
 -> Addressed class imbalance using SMOTE.
 -> Applied SHAP (SHapley Additive Explanations) for feature importance analysis.
@@ -26,7 +26,7 @@ XGBoost achieved the highest baseline accuracy of 86%.
 After hyperparameter tuning using WOA, accuracy improved significantly to 93%, confirming WOA's effectiveness for optimization.
 SHAP was also utilized to provide interpretability and explain how each feature influenced model predictions.
 
-# 2. Cleveland Heart Disease Dataset
+## 2. Cleveland Heart Disease Dataset
 
 A similar workflow was applied:
 
