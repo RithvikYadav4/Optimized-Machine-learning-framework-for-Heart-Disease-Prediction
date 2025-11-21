@@ -47,7 +47,7 @@ Evaluating performance on both datasets demonstrates the robustness, adaptabilit
 
 2.Scikit-learn
 
-3.XGBoost
+3.Logistic Regression, Random Forest, XGBoost,KNN and SVM
 
 4.SHAP
 
@@ -57,6 +57,5 @@ Evaluating performance on both datasets demonstrates the robustness, adaptabilit
 
 7.Pandas, NumPy, Matplotlib
 
-## CONCLUSION
-The proposed framework significantly improves prediction accuracy through advanced optimization and explainability techniques. 
-Integrating WOA with traditional machine learning models provides a scalable and interpretable solution for cardiovascular risk prediction, making it suitable for real-world clinical and preventive healthcare applications.
+8.Evaluation Metrics: Accuracy, Precision, Recall, F1-score
+
